@@ -1,0 +1,11 @@
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\bin\Debug\netcoreapp3.0\Home_Stay_Api.exe
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\obj\Debug\netcoreapp3.0\Home_Stay_Api.csprojAssemblyReference.cache
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\obj\Debug\netcoreapp3.0\staticwebassets\Home_Stay_Api.StaticWebAssets.Manifest.cache
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\obj\Debug\netcoreapp3.0\staticwebassets\Home_Stay_Api.StaticWebAssets.xml
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\obj\Debug\netcoreapp3.0\Home_Stay_Api.AssemblyInfoInputs.cache
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\obj\Debug\netcoreapp3.0\Home_Stay_Api.AssemblyInfo.cs
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\obj\Debug\netcoreapp3.0\Home_Stay_Api.RazorTargetAssemblyInfo.cache
+C:\Users\OdinWarNight\Desktop\Project T.Phuong\Home_Stay_Api\obj\Debug\netcoreapp3.0\Home_Stay_Api.MvcApplicationPartsAssemblyInfo.cache

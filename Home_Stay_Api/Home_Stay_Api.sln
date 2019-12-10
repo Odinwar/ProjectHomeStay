@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home_Stay_Api", "Home_Stay_Api.csproj", "{91BC8364-E426-46DD-943A-16429FDB7852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home MVC", "..\Home MVC\Home MVC.csproj", "{42BDB85C-3541-495D-A484-A88EF5DDCC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BC8364-E426-46DD-943A-16429FDB7852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BC8364-E426-46DD-943A-16429FDB7852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BC8364-E426-46DD-943A-16429FDB7852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BC8364-E426-46DD-943A-16429FDB7852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BDB85C-3541-495D-A484-A88EF5DDCC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BDB85C-3541-495D-A484-A88EF5DDCC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BDB85C-3541-495D-A484-A88EF5DDCC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BDB85C-3541-495D-A484-A88EF5DDCC89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A99C95-42EC-419D-9B2A-E14E036C49FA}
+	EndGlobalSection
+EndGlobal

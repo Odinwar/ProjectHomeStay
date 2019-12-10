@@ -1,0 +1,90 @@
+1
+House:
+ Id,
+ Name,
+ Name_Room,
+ Id_TypeHouse,
+ Address,
+ Postion=(x,y)=(100,100), 
+ isHome=true,
+ Sale=0.1,
+ isSale=true,
+ price=100,
+ Quatity_Person_Max=2,
+ Id_User, 
+ Description,
+
+2
+ImageProduct:
+ Id,
+ Id_Product,
+ URL,
+ 
+3
+TypeHouse :
+ Id,
+ Name,
+ Image,
+ IsHome,
+ 
+4
+Slide :
+  id,
+ image_1,
+ image_2,
+ title_1,
+ title_2,
+ content_1,
+ content_2,
+
+5
+Comment_Slide:
+ id,
+ Id_User,
+ content,
+ IsHome,
+ IsAbout,
+
+6
+Blog 
+ id,
+ Title,
+ Image,
+ Content,
+ 
+7
+Footer
+ id,
+ Name,
+ URL,
+
+8
+Cart:
+  id,
+  id_User,
+
+9
+CartUser:
+  id,
+  id_Cart,
+  id_Product,
+    
+10
+User,Role
+
+11
+System,
+
+
+12
+DateBook,
+ id
+ id_Product,
+ Date,
+
+13
+Quyen
+ Tao 
+ Them
+ Sua 
+ Xoa
