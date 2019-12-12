@@ -14,7 +14,7 @@ class CategoryHome extends Component {
     const category = show => {
       if (show)
         return (
-          <Link to={`/Shop/Category/${show.id}`}>
+          <Link to={`/Book/Category/${show.id}`}>
             <div className="categoryHome-image ">
               <img src={show.image} alt="Category"></img>
             </div>
@@ -37,19 +37,19 @@ class CategoryHome extends Component {
             </div>
             <div className="categoryHome-center col-md-auto">
               <div className="categoryHome-image ">
-                <img src="images/category.jpg" alt="Category"></img>
+                <img src="https://cdn5.vectorstock.com/i/1000x1000/09/34/calligraphic-luxury-logo-emblem-elegant-decor-vector-5220934.jpg" alt="Category"></img>
               </div>
               <div className="categoryHome-content align-items-md-center  text-center">
-                <h2>Vegetables</h2>
-                <p>Protect the health of every home</p>
+                <h2>Home Stay</h2>
+                <p>Project giao tiếp người máy</p>
                 <a
                   name=""
                   id=""
                   className="btn-categoryhome-center btn btn-primary"
-                  href="/Shop"
+                  href="/Book/Category/0"
                   role="button"
                 >
-                  Shop now
+                  Book Now
                 </a>
               </div>
             </div>

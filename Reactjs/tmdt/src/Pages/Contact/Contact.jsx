@@ -88,7 +88,7 @@ class Contact extends Component {
                 </div>
                 <div className="col-md-6 ">
                   <img
-                    src="images/product-1.jpg"
+                    src="https://c4.wallpaperflare.com/wallpaper/384/115/805/panwa-beach-resort-4k-full-screen-for-desktop-wallpaper-preview.jpg"
                     alt="Contact"
                     width="440px"
                     height="560px"

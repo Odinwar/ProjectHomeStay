@@ -17,7 +17,7 @@ class Slide extends Component {
               <h1 className="mb-2">{Slide.title_1}</h1>
               <h2 className="subheading mb-4">{Slide.content_1}</h2>
               <p>
-                <Link to="/Shop/Category/0" className="btn btn-primary">
+                <Link to="/Book/Category/0" className="btn btn-primary">
                   View Details
                 </Link>
               </p>

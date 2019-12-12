@@ -2,33 +2,33 @@
   "Slide": [
     {
       "id": 1,
-      "image_1": "images/bg_1.jpg",
-      "image_2": "images/bg_2.jpg",
+      "image_1": "https://wallpapermemory.com/uploads/684/resort-wallpaper-full-hd-1920x1080-486788.jpg",
+      "image_2": "https://i.pinimg.com/originals/76/dc/07/76dc071335d1d502b6d5507ff6a6fec8.jpg",
       "name": "Home",
-      "title_1": "We serve Fresh Vegestables & Fruits",
-      "title_2": "100% Fresh & Organic Foods",
-      "content_1": "WE DELIVER ORGANIC VEGETABLES & FRUITS",
-      "content_2": "WE DELIVER ORGANIC VEGETABLES & FRUITS"
+      "title_1": "Welcome to HOMESTAY",
+      "title_2": "100% đừng rip em nhé !",
+      "content_1": "Hi vọng qua môn",
+      "content_2": "Hi vọng qua môn"
     },
     {
       "id": 2,
-      "image_1": "https://media2.s-nbcnews.com/j/newscms/2015_39/792061/produce-fruit-farm-stock-today-150924-tease1_547ef26d9ca53cb890caee5f4b46ef41.social_share_1200x630_center.jpg",
-      "image_2": "https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "name": "Shop",
-      "title_1": "Welcome to Shop",
-      "title_2": "Welcome to Shop",
-      "content_1": "WE DELIVER ORGANIC VEGETABLES & FRUITS",
-      "content_2": "WE DELIVER ORGANIC VEGETABLES & FRUITS"
+      "image_1": "https://images.wallpaperscraft.com/image/sofa_living_room_fireplace_design_interior_25713_1920x1080.jpg",
+      "image_2": "https://wallup.net/wp-content/uploads/2018/09/30/761263-mansion-house-building-architecture-interior-design-swimming-pool-748x421.jpg",
+      "name": "Rooms",
+      "title_1": "Welcome to Rooms",
+      "title_2": "Welcome to Rooms",
+      "content_1": "Hi vọng qua môn",
+      "content_2": "Hi vọng qua môn"
     },
     {
       "id": 3,
-      "image_1": "images/image_1.jpg",
-      "image_2": "images/image_3.jpg",
+      "image_1": "http://static.asiawebdirect.com/m/phuket/portals/phuket-com/homepage/toptenhotels/pagePropertiesImage/the-shore-katathani-phuket.jpg.jpg",
+      "image_2": "http://www.asiawebdirect.com/media/images/hotels/68544/426416.jpg",
       "name": "About",
-      "title_1": "About",
-      "title_2": "About",
-      "content_1": "WE DELIVER ORGANIC VEGETABLES & FRUITS",
-      "content_2": "WE DELIVER ORGANIC VEGETABLES & FRUITS"
+      "title_1": "Welcome to About",
+      "title_2": "Welcome to About",
+      "content_1": "Hi vọng qua môn",
+      "content_2": "Hi vọng qua môn"
     },
     {
       "id": 4,
@@ -42,13 +42,13 @@
     },
     {
       "id": 5,
-      "image_1": "https://bcbsks.files.wordpress.com/2016/09/fruits_veggies.jpg?w=705",
-      "image_2": "https://previews.123rf.com/images/moscowbear/moscowbear1801/moscowbear180100035/94433067-food-blog-concept-vegetables-for-dietary-catering-on-green-background.jpg",
+      "image_1": "http://static.asiawebdirect.com/m/phuket/portals/phuket-com/homepage/toptenhotels/pagePropertiesImage/the-shore-katathani-phuket.jpg.jpg",
+      "image_2": "http://www.asiawebdirect.com/media/images/hotels/68544/426416.jpg",
       "name": "Blog",
-      "title_1": "Blog",
-      "title_2": "Blog",
-      "content_1": "WE DELIVER ORGANIC VEGETABLES & FRUITS",
-      "content_2": ""
+      "title_1": "Welcome to Blog",
+      "title_2": "Welcome to Blog",
+      "content_1": "Hi vọng qua môn",
+      "content_2": "Hi vọng qua môn"
     },
     {
       "id": 6,
@@ -71,32 +71,32 @@
     },
     {
       "id": 1,
-      "name": "Vegetables",
-      "image": "images/category-1.jpg",
+      "name": "Resorts",
+      "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/104/104447609.jpg",
       "quatity_max": "600",
       "HomeFlg": true,
       "quatity": 5
     },
     {
       "id": 2,
-      "name": "Fruits",
-      "image": "images/category-2.jpg",
+      "name": "Vilages",
+      "image": "http://globalluxurylondon.com/wp-content/uploads/modern-luxury-living-1.jpg",
       "quatity_max": "600",
       "HomeFlg": true,
       "quatity": 5
     },
     {
       "id": 3,
-      "name": "Juice",
-      "image": "images/category-3.jpg",
+      "name": "Hotels",
+      "image": "https://jingtravel.com/wp-content/uploads/2019/04/charter-flight-compressor-1240x698.jpg",
       "quatity_max": "600",
       "HomeFlg": true,
       "quatity": 5
     },
     {
       "id": 4,
-      "name": "Dried",
-      "image": "images/category-4.jpg",
+      "name": "Houses",
+      "image": "http://employeebenefits.co.uk/content/uploads/2019/10/Luxury-home.jpg",
       "quatity_max": "600",
       "HomeFlg": true,
       "quatity": 5
@@ -105,152 +105,32 @@
   "Product": [
     {
       "id": 1,
-      "image": "http://i.imgur.com/NUWMAsn.jpg",
-      "title": "Dâu Tây",
-      "description": "Dâu tây nhà trồng , không chất bảo quản",
-      "isSale": false,
-      "sale": "",
-      "price_show": "$300.00",
-      "price": 300,
-      "price_sale_show": "",
-      "price_sale": 0,
+      "title": "The Joshua Tree House",
+      "image": "http://roundhouseco.com/wp-content/uploads/2018/07/studio-hba-hospitality-designer-best-interior-design-hotel-5b5bc7e173bb0.jpg",
+      "description": "The Joshua Tree House is a two bed two bath 1949 hacienda located 10 minutes from the west entrance of Joshua Tree National Park in Joshua Tree, CA.\n\nThis is a place for dreamers to reset, reflect, and create. Designed with a 'slow' pace in mind, our hope is that you enjoy every part of your stay; from making local coffee by drip in the morning, choosing the perfect record to put on as the sun sets, or by relaxing in the hot tub surrounded by over 100 Joshua Trees and a starry night sky.",
+      "price": "500",
+      "isSale": true,
       "quatity_max": "600",
+      "id_Category": "4",
       "HomeFlg": true,
-      "id_Category": 1
+      "price_show": "$500",
+      "price_sale_show": "$375",
+      "price_sale": 375,
+      "sale": "25%"
     },
     {
       "id": 2,
-      "image": "https://znews-photo.zadn.vn/w660/Uploaded/sgorvz/2017_01_09/thuc_pham_mua_dong_giam_can_1_1.jpg",
-      "title": "Lựu đỏ",
-      "description": "Lựu Đà Lạt chín đều",
-      "isSale": true,
-      "sale": "10%",
-      "price_show": "$300.000",
-      "price": 300,
-      "price_sale_show": "$200.000",
-      "price_sale": 200,
-      "quatity_max": "600",
-      "HomeFlg": true,
-      "id_Category": 1
-    },
-    {
-      "id": 3,
-      "image": "https://znews-photo.zadn.vn/w660/Uploaded/sgorvz/2017_01_15/trai_cay_dot_chay_mo_thua_1.jpg",
-      "title": "Dưa Hấu",
-      "description": "Dưa hấu Quảng Ngãi đầu mùa",
-      "isSale": true,
-      "sale": "30%",
-      "price_show": "$400.000",
-      "price": 400,
-      "price_sale_show": "$350.000",
-      "price_sale": 350,
-      "quatity_max": "600",
-      "HomeFlg": true,
-      "id_Category": 1
-    },
-    {
-      "id": 4,
-      "image": "https://znews-photo.zadn.vn/w660/Uploaded/sgorvz/2016_06_03/trai_cay_tot_cho_da_1.jpg",
-      "title": "Táo Đỏ",
-      "description": "Táo đỏ Sapa",
-      "isSale": false,
-      "sale": "",
-      "price_show": "$300.00",
-      "price": 300,
-      "price_sale_show": "",
-      "price_sale": 0,
-      "quatity_max": "600",
-      "HomeFlg": true,
-      "id_Category": 2
-    },
-    {
-      "id": 5,
-      "image": "http://media.bizwebmedia.net/sites/99161/data/Upload/2015/3/sau_rieng_ri6_cleverfood__2.jpg",
-      "title": "Sầu Riêng",
-      "description": "Sầu riêng Đắt Nông",
-      "isSale": true,
-      "sale": "20%",
-      "price_show": "$600.00",
-      "price": 600,
-      "price_sale_show": "$500.00",
-      "price_sale": 500,
-      "quatity_max": "600",
-      "HomeFlg": true,
-      "id_Category": 2
-    },
-    {
-      "id": 6,
-      "image": "https://znews-photo.zadn.vn/w660/Uploaded/ywfau/2015_01_31/8_3.jpg",
-      "title": "Bơ Xanh",
-      "description": "Bơ đầu mùa , bở, thơm ngon",
-      "isSale": true,
-      "sale": "10%",
-      "price_show": "$300.00",
-      "price": 300,
-      "price_sale_show": "$250.00",
-      "price_sale": 250,
-      "quatity_max": "600",
-      "HomeFlg": true,
-      "id_Category": 2
-    },
-    {
-      "id": 7,
-      "image": "https://image.nongnghiep.vn//upload/Article/thanhnb/2016/6/28/thu-hoach-xoai-1.jpg",
-      "title": "Xoài Kêu",
-      "description": "Xoài Kêu Khánh Hòa giòn, ngọt",
-      "isSale": false,
-      "sale": "",
-      "price_show": "$300.00",
-      "price": 300,
-      "price_sale_show": "",
-      "price_sale": 0,
-      "quatity_max": "600",
-      "HomeFlg": true,
-      "id_Category": 3
-    },
-    {
-      "id": 8,
-      "image": "https://www.michaelmossbooks.com/uploads/article/2019/05/03/nhung-loai-trai-cay-anh-huong-thai-ky-ba-bau-tuyet-doi-khong-nen-an.jpg",
-      "title": "Quýt Đường Canh",
-      "description": "Quýt đường canh Lâm Đồng cuối mùa ",
-      "isSale": false,
-      "sale": "",
-      "price_show": "$400.00",
-      "price": 400,
-      "price_sale_show": "",
-      "price_sale": 0,
-      "quatity_max": "600",
-      "HomeFlg": true,
-      "id_Category": 3
-    },
-    {
-      "id": 9,
-      "title": "Thèm không",
-      "image": "http://ttol.vietnamnetjsc.vn/2016/10/26/09/39/2.jpg",
-      "description": "Không ngon không lấy tiền",
-      "price": "200000",
+      "title": "Underground Hygge",
+      "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/223/223857161.jpg",
+      "description": "This inspired dwelling nestled right into the breathtaking Columbia River Gorge mountainside. Reverently framed by the iconic round doorway, the wondrous views will entrance your imagination and inspire an unforgettable journey. Every nook of this little habitation will warm your sole, every cranny will charm your expedition of repose. Up the pathway, tucked into the earth, an unbelievable adventure awaits!",
+      "price": "250",
       "isSale": true,
       "quatity_max": "600",
       "id_Category": "2",
       "HomeFlg": true,
-      "price_show": "$200000",
-      "price_sale_show": "$0",
-      "price_sale": 0,
-      "sale": "100%"
-    },
-    {
-      "id": 10,
-      "title": "Luxury",
-      "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/148/148362842.jpg",
-      "description": "LuxuRy verry good",
-      "price": "300",
-      "isSale": true,
-      "quatity_max": "600",
-      "id_Category": "1",
-      "HomeFlg": true,
-      "price_show": "$300",
-      "price_sale_show": "$225",
-      "price_sale": 225,
+      "price_show": "$250",
+      "price_sale_show": "$187.5",
+      "price_sale": 187.5,
       "sale": "25%"
     }
   ],
@@ -259,9 +139,9 @@
       "id": 1,
       "id_User": 2,
       "image": "https://we25.vn/media2018/Img_News/2019/11/01/1445_20191101140746.jpg",
-      "content": "Shop rất tuyệt vào giao hàng nhanh chóng, cảm ơn shop nhiều !!!",
-      "userName": "Võ Hoài Phương",
-      "job": "Nhiếp ảnh",
+      "content": "Thank website, is a very good !",
+      "userName": "Hồ Ngọc Luân",
+      "job": "Front end",
       "HomeFlg": true,
       "AboutFlg": true
     },
@@ -269,19 +149,19 @@
       "id": 2,
       "id_User": 3,
       "image": "https://thuvientoc.com/wp-content/uploads/2018/06/kieu-toc-dep-cua-hari-won-5.jpg",
-      "content": "Trái cây tươi  đảm bảo sạch !!!",
-      "userName": "Nguyễn Bích Phương",
-      "job": "Diễn viên",
+      "content": "Booking very simple !",
+      "userName": "Phan Thị Phương Linh",
+      "job": "Leader",
       "HomeFlg": true,
       "AboutFlg": true
     },
     {
       "id": 3,
       "id_User": 4,
-      "image": "http://avatar.nct.nixcdn.com/playlist/2017/01/17/7/8/c/7/1484620963031_500.jpg",
-      "content": "Trái cây ngọt ,đảm bảo yêu cầu đơn hàng  !!!",
-      "userName": "Nguyễn Thu Hà",
-      "job": "Người mẫu",
+      "image": "https://scontent.fdad3-1.fna.fbcdn.net/v/t1.0-9/76706709_1332401040277624_8849414680410587136_n.jpg?_nc_cat=110&_nc_ohc=VLl9b9pwS8EAQlLi2iIcwXfkTJIE3hcDfOI5qgxQAkzo6p5y9c4UM3rwA&_nc_ht=scontent.fdad3-1.fna&oh=9878236390b23a47c5caae70e15e7edf&oe=5E765140",
+      "content": "Website slow and error !",
+      "userName": "Nguyễn Văn Quý",
+      "job": "Back end",
       "HomeFlg": true,
       "AboutFlg": true
     }
@@ -290,70 +170,70 @@
     {
       "id": 1,
       "idBlogDetails": 1,
-      "image": "images/image_1.jpg",
+      "image": "https://edge.media.datahc.com/HI505543410.jpg?source=Leonardo",
       "date": "July 20, 2019",
       "userPost": "Admin",
-      "tite": " Even the all-powerful Pointing has no control about the blind texts",
-      "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "tite": "USD 125 for 5-star Room at Rex Hotel Saigon – Vietnam Travel TipsEven the all-powerful Pointing has no control about the blind texts",
+      "content": "I just returned home from 4 days in Seattle. We had a wonderful stay at Amanda's! ",
       "quantity_comment": 30
     },
     {
       "id": 2,
       "idBlogDetails": 2,
-      "image": "images/image_2.jpg",
+      "image": "https://r-ec.bstatic.com/xdata/images/hotel/max500/98737061.jpg?k=f2a260201851d234a39a36a17c2422a038a38cf6b6102081fbf0e21aa7d17c5d&o=",
       "date": "July 20, 2019",
       "userPost": "Admin",
-      "tite": " Even the all-powerful Pointing has no control about the blind texts",
-      "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "tite": "Alleyns was a very sweet host, and her room is very lovely",
+      "content": "I felt very welcome and the location was perfect! Good balje for money",
       "quantity_comment": 30
     },
     {
       "id": 3,
       "idBlogDetails": 3,
-      "image": "images/image_3.jpg",
+      "image": "https://d1nabgopwop1kh.cloudfront.net/hotel-asset/1615085387258028534_wh",
       "date": "July 20, 2019",
       "userPost": "Admin",
-      "tite": " Even the all-powerful Pointing has no control about the blind texts",
+      "tite": "USD 125 for 5-star Room at Rex Hotel Saigon – Vietnam Travel TipsEven the all-powerful Pointing has no control about the blind texts",
       "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       "quantity_comment": 30
     },
     {
       "id": 4,
       "idBlogDetails": 4,
-      "image": "images/image_4.jpg",
+      "image": "http://www.siamp.com.vn/Data/Sites/1/News/22/06.jpg",
       "date": "July 20, 2019",
       "userPost": "Admin",
-      "tite": " Even the all-powerful Pointing has no control about the blind texts",
+      "tite": "Even the all-powerful Pointing has no control about the blind texts",
       "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       "quantity_comment": 30
     },
     {
       "id": 5,
       "idBlogDetails": 5,
-      "image": "images/image_5.jpg",
+      "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/223/223857005.jpg",
       "date": "July 20, 2019",
       "userPost": "Admin",
-      "tite": " Even the all-powerful Pointing has no control about the blind texts",
-      "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "tite": "We enjoyed this airbnb! The loft was so cozy it definitely brought out the kid in us!",
+      "content": "I felt very welcome and the location was perfect! Good balje for money",
       "quantity_comment": 30
     },
     {
       "id": 6,
       "idBlogDetails": 6,
-      "image": "images/image_6.jpg",
+      "image": "https://i.pinimg.com/originals/2b/76/37/2b763732c2e998f7a1adb9f109e95c25.jpg",
       "date": "July 20, 2019",
       "userPost": "Admin",
-      "tite": " Even the all-powerful Pointing has no control about the blind texts",
-      "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "tite": "Even the all-powerful Pointing has no control about the blind texts",
+      "content": "I felt very welcome and the location was perfect! Good balje for money",
       "quantity_comment": 30
     },
     {
       "id": 1,
       "idBlogDetails": 1,
-      "image": "images/image_1.jpg",
+      "image": "https://i.pinimg.com/originals/31/15/40/311540d0c34ae3b20edace29016212a8.jpg",
       "date": "July 20, 2019",
       "userPost": "Admin",
-      "tite": " Even the all-powerful Pointing has no control about the blind texts",
+      "tite": "Alleyns was a very sweet host, and her room is very lovely",
       "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       "quantity_comment": 30
     }
@@ -362,9 +242,9 @@
     {
       "id": 1,
       "title": "Organic foods is good for your health",
-      "image": "https://pinchofyum.com/wp-content/uploads/Fruit-Pizza-Design-Square.jpg",
+      "image": "https://edge.media.datahc.com/HI505543410.jpg?source=Leonardo",
       "author": {
-        "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
+        "image": "http://images6.fanpop.com/image/photos/37400000/Fairy-Tail-Natsu-Chibi-chibi-37472981-400-400.png",
         "userName": "Lance Smith",
         "descriptions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
       },
@@ -373,7 +253,7 @@
     {
       "id": 2,
       "title": " foods is good for your health",
-      "image": "https://pinchofyum.com/wp-content/uploads/Fruit-Pizza-Design-Square.jpg",
+      "image": "https://r-ec.bstatic.com/xdata/images/hotel/max500/98737061.jpg?k=f2a260201851d234a39a36a17c2422a038a38cf6b6102081fbf0e21aa7d17c5d&o=",
       "author": {
         "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
         "userName": "Lance Smith",
@@ -384,7 +264,7 @@
     {
       "id": 3,
       "title": " foods is good for your health",
-      "image": "https://pinchofyum.com/wp-content/uploads/Fruit-Pizza-Design-Square.jpg",
+      "image": "https://d1nabgopwop1kh.cloudfront.net/hotel-asset/1615085387258028534_wh",
       "author": {
         "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
         "userName": "Lance Smith",
@@ -395,7 +275,7 @@
     {
       "id": 4,
       "title": " foods is good for your health",
-      "image": "https://pinchofyum.com/wp-content/uploads/Fruit-Pizza-Design-Square.jpg",
+      "image": "https://d1nabgopwop1kh.cloudfront.net/hotel-asset/1615085387258028534_wh",
       "author": {
         "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
         "userName": "Lance Smith",
@@ -406,7 +286,7 @@
     {
       "id": 5,
       "title": " foods is good for your health",
-      "image": "https://pinchofyum.com/wp-content/uploads/Fruit-Pizza-Design-Square.jpg",
+      "image": "https://d1nabgopwop1kh.cloudfront.net/hotel-asset/1615085387258028534_wh",
       "author": {
         "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
         "userName": "Lance Smith",
@@ -417,7 +297,7 @@
     {
       "id": 6,
       "title": " foods is good for your health",
-      "image": "https://pinchofyum.com/wp-content/uploads/Fruit-Pizza-Design-Square.jpg",
+      "image": "https://d1nabgopwop1kh.cloudfront.net/hotel-asset/1615085387258028534_wh",
       "author": {
         "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
         "userName": "Lance Smith",
@@ -468,7 +348,7 @@
       "id": 1,
       "id_blogDetails": 1,
       "id_user": 2,
-      "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
+      "image": "http://images6.fanpop.com/image/photos/37400000/Fairy-Tail-Natsu-Chibi-chibi-37472981-400-400.png",
       "userName": "Lance Smith",
       "descriptions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
     },
@@ -476,7 +356,7 @@
       "id": 2,
       "id_blogDetails": 2,
       "id_User": 3,
-      "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
+      "image": "http://images6.fanpop.com/image/photos/37400000/Fairy-Tail-Natsu-Chibi-chibi-37472981-400-400.png",
       "userName": "Lance Smith",
       "descriptions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
     },
@@ -484,7 +364,7 @@
       "id": 3,
       "id_blogDetails": 3,
       "id_User": 4,
-      "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
+      "image": "http://images6.fanpop.com/image/photos/37400000/Fairy-Tail-Natsu-Chibi-chibi-37472981-400-400.png",
       "userName": "Lance Smith",
       "descriptions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
     },
@@ -492,7 +372,7 @@
       "id": 4,
       "id_blogDetails": 4,
       "id_User": 5,
-      "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
+      "image": "http://images6.fanpop.com/image/photos/37400000/Fairy-Tail-Natsu-Chibi-chibi-37472981-400-400.png",
       "userName": "Lance Smith",
       "descriptions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
     },
@@ -500,7 +380,7 @@
       "id": 5,
       "id_blogDetails": 5,
       "id_User": 6,
-      "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
+      "image": "http://images6.fanpop.com/image/photos/37400000/Fairy-Tail-Natsu-Chibi-chibi-37472981-400-400.png",
       "userName": "Lance Smith",
       "descriptions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
     },
@@ -508,7 +388,7 @@
       "id": 6,
       "id_blogDetails": 6,
       "id_User": 7,
-      "image": "http://kenh14cdn.com/2019/5/6/e4-1556804137280996840619-15571599881272003882952.jpg",
+      "image": "http://images6.fanpop.com/image/photos/37400000/Fairy-Tail-Natsu-Chibi-chibi-37472981-400-400.png",
       "userName": "Lance Smith",
       "descriptions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
     }
@@ -517,42 +397,32 @@
     {
       "id": 1,
       "email": "nva@gmail.com",
-      "password": "16tclc3"
+      "password": "16tclc3",
+      "role": 1
     },
     {
       "id": 2,
       "email": "nvb@gmail.com",
-      "password": "16tclc3"
+      "password": "16tclc3",
+      "role": 2
     },
     {
       "id": 3,
       "email": "nvc@gmail.com",
-      "password": "16tclc3"
+      "password": "16tclc3",
+      "role": 3
     },
     {
       "id": 4,
       "email": "nvd@gmail.com",
-      "password": "16tclc3"
+      "password": "16tclc3",
+      "role": 2
     },
     {
       "id": 5,
       "email": "nve@gmail.com",
-      "password": "16tclc3"
-    },
-    {
-      "id": 6,
-      "email": "123123@gmail.com",
-      "password": "16tclc3"
-    },
-    {
-      "id": 7,
-      "email": "123@gmail.com",
-      "password": "123123"
-    },
-    {
-      "id": 8,
-      "email": "qweqweqw@gmail.com",
-      "password": "123123"
+      "password": "16tclc3",
+      "role": 3
     }
   ],
   "Information_User": [
@@ -615,18 +485,6 @@
       "address": "dai hoc bach khoa da nang",
       "accountPaypal": "123456789",
       "job": "Reactjs"
-    },
-    {
-      "id": 8,
-      "name": "qweqweqwe",
-      "image": "",
-      "id_user": 8,
-      "telephone": "",
-      "gender": true,
-      "address": "",
-      "accountPaypal": "",
-      "job": "",
-      "email": "qweqweqw@gmail.com"
     }
   ],
   "Cart": [
@@ -659,6 +517,32 @@
       "id_user": 1,
       "id_product": 1,
       "quatity": 10
+    }
+  ],
+  "Bill": [
+    {
+      "id" : 1,
+      "id_user": 1,
+      "id_product": 1,
+      "status": 0
+    },
+    {
+      "id" : 2,
+      "id_user": 2,
+      "id_product": 2,
+      "status": 1
+    },
+    {
+      "id" : 3,
+      "id_user": 3,
+      "id_product": 3,
+      "status": 2
+    },
+    {
+      "id" : 4,
+      "id_user": 4,
+      "id_product": 4,
+      "status": 1
     }
   ]
 }

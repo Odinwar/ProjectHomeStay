@@ -45,7 +45,7 @@ const routes = [
   },
 
   {
-    path: "/HomeStay/:id",
+    path: "/Product/:id",
     exact: false,
     main: ({ match }) => <ProductDetails match={match} />
   },

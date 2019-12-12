@@ -10,7 +10,7 @@ const NavBar = [
     exact: true
   },
   {
-    name: "Book",
+    name: "Rooms",
     path: "/Book/Category/0",
     exact: false
   },
@@ -30,11 +30,6 @@ const NavBar = [
     path: "/Contact",
     exact: false
   },
-  {
-    name: "Tour",
-    path: "/Tour",
-    exact: false
-  }
 ];
 
 const MenuLinks = ({ label, to, activeOnlyWhenExact }) => {

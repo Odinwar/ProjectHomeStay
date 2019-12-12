@@ -47,7 +47,7 @@ export const getApiSlideShop = () => {
       data: {}
     });
 
-    CallApi("Slide/?name=Shop", "GET", null)
+    CallApi("Slide/?name=Rooms", "GET", null)
       .then(res => {
         if (res.data) dispatch({ type: Type.ShowSlideShop, data: res.data[0] });
         else dispatch({ type: Type.ShowSlideShop, data: {} });

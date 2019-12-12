@@ -7,7 +7,7 @@ class Banner extends Component {
   render() {
     return (
       <section className="banner container-fluid align-items-md-center">
-        <img src="images/bg_3.jpg" alt="banner" />
+        <img src="http://flcsamson.com.vn/assets/uploads/slide/images/FLC-Hotel-SS-Slider-4-1.jpg" alt="banner" />
         <div className="banner-content algin-items-center ">
           <span className="subheading">Best Price For You</span>
           <h2 className="mb-4">Deal of the day</h2>

@@ -21,8 +21,7 @@ class CartUser extends Component {
                       <thead className="thead-primary">
                         <tr className="text-center">
                           <th>&nbsp;</th>
-                          <th>Product name</th>
-
+                          <th>Name Rooms</th>
                           <th>Quantity</th>
                           <th>Total</th>
                           <th>State</th>
